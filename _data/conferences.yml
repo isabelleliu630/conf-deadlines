@@ -11,7 +11,7 @@
 
 # Distributed System
 
-- title: ICDCS
+- title: [B] ICDCS
   year: 2021
   id: icdcs2021
   link: https://icdcs2021.us/
@@ -25,7 +25,7 @@
 
 # Computer Network
 
-- title: MobiHoc
+- title: [B] MobiHoc
   year: 2021
   id: mobihoc2021
   link: https://www.sigmobile.org/mobihoc/2021/
@@ -35,21 +35,9 @@
   date: Week of July 26, 2021
   place: Shanghai, China (Hybrid mode)
   sub: CN
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Dec 12, 2020. More info <a href=''https://www.sigmobile.org/mobihoc/2021/''>here</a>.'
+  note: '<b>NOTE</b>: Full name: International Symposium on Mobile Ad Hoc Networking and Computing (10 (including references) pages). More info <a href=''https://www.sigmobile.org/mobihoc/2021/''>here</a>.'
 
-- title: IEEE INFOCOM
-  year: 2021
-  id: infocom2021
-  link: https://infocom2021.ieee-infocom.org/
-  deadline: '2020-8-15 23:59:59'
-  abstract_deadline: '2020-8-8 23:59:59'
-  timezone: UTC-4
-  date: May 10-13, 2021
-  place: Online
-  sub: CN
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 8, 2020. More info <a href=''https://infocom2021.ieee-infocom.org/''>here</a>.'
-
-- title: MobiSys
+- title: [B] MobiSys
   year: 2021
   id: mobisys2021
   link: https://www.sigmobile.org/mobisys/2021/
@@ -59,9 +47,57 @@
   date: To be determined
   place: To be determined
   sub: CN
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 8, 2021. More info <a href=''https://sigmobile.org/mobisys/2021/cfp.pdf''>here</a>.'
+  note: '<b>NOTE</b>: Full name: International Conference on Mobile Systems, Applications, and Services (12 pages). More info <a href=''https://sigmobile.org/mobisys/2021/cfp.html''>here</a>.'
 
-- title: MobiCom (Summer Deadlines)
+- title: [B] SenSys
+  year: 2021
+  id: sensys2021
+  link: https://sensys.acm.org/2021/
+  deadline: '2021-6-4 23:59:59'
+  abstract_deadline: '2021-5-28 23:59:59'
+  timezone: UTC-12
+  date: November, 2021
+  place: Coimbra, Portugal
+  sub: CN
+  note: '<b>NOTE</b>: Full name: ACM conference on Embedded Networked Sensor Systems (12 pages).  More info <a href=''https://sensys.acm.org/2021/calls/''>here</a>.'
+
+- title: [B] SECON
+  year: 2021
+  id: secon2021
+  link: https://secon2021.ieee-secon.org/
+  deadline: '2021-2-22 23:59:59'
+  abstract_deadline: '2021-2-22 23:59:59'
+  timezone: UTC-12
+  date: July 6-9, 2021
+  place: Virtual
+  sub: CN
+  note: '<b>NOTE</b>: Full name: International Conference on Sensing, Communication and Networking (9 (including references) pages).  More info <a href=''https://secon2021.ieee-secon.org/authors/call-for-papers/''>here</a>.'
+
+- title: [B] IPSN
+  year: 2021
+  id: ipsn2021
+  link: https://ipsn.acm.org/2021/cfp.html?v=22
+  deadline: '2021-10-26 11:59:59'
+  abstract_deadline: '2021-10-19 11:59:59'
+  timezone: UTC-12
+  date: May 18-21, 2021
+  place: Nashville, Tennessee, USA
+  sub: CN
+  note: '<b>NOTE</b>: Full name: International Conference on Information Processing in Sensor Networks (12 (including references) pages).  More info <a href=''https://ipsn.acm.org/2021/cfp.html?v=22''>here</a>.'
+
+# - title: [B] ICNP
+#   year: 2021
+#   id: icnp2021
+#   link: https://icnp21.cs.ucr.edu/
+#   deadline: '2021-5-24 20:00:00'
+#   abstract_deadline: '2021-5-17 20:00:00'
+#   timezone: UTC-4
+#   date: November 2-5, 2021
+#   place: Virtual
+#   sub: CN
+#   note: '<b>NOTE</b>: Full name: IEEE International Conference on Network Protocols (10 pages).  More info <a href=''https://icnp21.cs.ucr.edu/cfp.html''>here</a>.'
+
+- title: [A] MobiCom (Summer Deadlines)
   year: 2021
   id: mobicom2021-summer
   link: https://www.sigmobile.org/mobicom/2021/index.html
@@ -73,7 +109,7 @@
   sub: CN
   note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 21, 2020. More info <a href=''https://www.sigmobile.org/mobicom/2021/index.html''>here</a>.'
 
-- title: MobiCom (Winter Deadlines)
+- title: [A] MobiCom (Winter Deadlines)
   year: 2021
   id: mobicom2021-winter
   link: https://www.sigmobile.org/mobicom/2021/index.html
@@ -85,19 +121,7 @@
   sub: CN
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 19, 2021. More info <a href=''https://www.sigmobile.org/mobicom/2021/index.html''>here</a>.'
 
-- title: IWQoS
-  year: 2021
-  id: iwqos2021
-  link: https://iwqos2021.ieee-iwqos.org/
-  deadline: '2021-2-22 23:59:59'
-  abstract_deadline: '2021-2-15 23:59:59'
-  timezone: UTC-4
-  date: June 25-28, 2021
-  place: Tokyo, Japan
-  sub: CN
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 15, 2021. More info <a href=''https://iwqos2021.ieee-iwqos.org/''>here</a>.'
-
-- title: NSDI (Spring deadline)
+- title: [A] NSDI (Spring deadline)
   year: 2022
   id: nsdi2022-spring
   link: https://www.usenix.org/conference/nsdi22/call-for-papers
@@ -107,9 +131,9 @@
   date: April 4-6, 2022
   place: Renton, WA, USA
   sub: CN
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 4, 2021. More info <a href=''https://www.usenix.org/conference/nsdi22/call-for-papers''>here</a>.'
+  note: '<b>NOTE</b>: Full name for NSID: Symposium on Network System Design and Implementation. Mandatory abstract deadline on Mar 4, 2021. More info <a href=''https://www.usenix.org/conference/nsdi22/call-for-papers''>here</a>.'
 
-- title: NSDI (Fall deadline)
+- title: [A] NSDI (Fall deadline)
   year: 2022
   id: nsdi2022-fall
   link: https://www.usenix.org/conference/nsdi22/call-for-papers
@@ -119,9 +143,9 @@
   date: April 4-6, 2022
   place: Renton, WA, USA
   sub: CN
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Sept 9, 2021. More info <a href=''https://www.usenix.org/conference/nsdi22/call-for-papers''>here</a>.'
+  note: '<b>NOTE</b>: Full name for NSID: Symposium on Network System Design and Implementation. Mandatory abstract deadline on Sept 9, 2021. More info <a href=''https://www.usenix.org/conference/nsdi22/call-for-papers''>here</a>.'
 
-- title: SIGCOMM
+- title: [A] SIGCOMM
   year: 2021
   id: sigcomm2021
   link: http://conferences.sigcomm.org/sigcomm/2021/
@@ -133,111 +157,21 @@
   sub: CN
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2021. More info <a href=''http://conferences.sigcomm.org/sigcomm/2021/''>here</a>.'
 
-# Security & Privacy
-
-- title: NDSS (Summer Review Cycle)
+- title: [A] INFOCOM
   year: 2021
-  id: ndss2021-summer
-  link: https://www.ndss-symposium.org/ndss2021/
-  deadline: '2020-5-22 23:59:59'
-  timezone: UTC-12
-  date: February 21-24, 2021
-  place: San Diego, CA (Online)
-  sub: SP
-
-- title: NDSS (Fall Review Cycle)
-  year: 2021
-  id: ndss2021-fall
-  link: https://www.ndss-symposium.org/ndss2021/
-  deadline: '2020-7-31 23:59:59'
-  timezone: UTC-12
-  date: February 21-24, 2021
-  place: San Diego, CA (Online)
-  sub: SP
-
-- title: CCS (First Review Cycle)
-  year: 2021
-  id: ccs2021-first
-  link: https://www.sigsac.org/ccs/CCS2021/
-  deadline: '2021-1-20 23:59:59'
-  timezone: UTC-12
-  date: November 14-19, 2021
-  place: Seoul, South Korea
-  sub: SP
-
-- title: CCS (Second Review Cycle)
-  year: 2021
-  id: ccs2021-second
-  link: https://www.sigsac.org/ccs/CCS2021/
-  deadline: '2021-5-6 23:59:59'
-  timezone: UTC-12
-  date: November 14-19, 2021
-  place: Seoul, South Korea
-  sub: SP
-
-- title: S&P (First Deadline)
-  year: 2022
-  id: sp2022-first
-  link: https://www.ieee-security.org/TC/SP2022/cfpapers.html
-  deadline: '2021-4-15 23:59:59'
-  timezone: UTC-12
-  date: To be determined
-  place: To be determined
-  sub: SP
-
-- title: S&P (Second Deadline)
-  year: 2022
-  id: sp2022-second
-  link: https://www.ieee-security.org/TC/SP2022/cfpapers.html
-  deadline: '2021-8-19 23:59:59'
-  timezone: UTC-12
-  date: To be determined
-  place: To be determined
-  sub: SP
-
-- title: S&P (Third Deadline)
-  year: 2022
-  id: sp2022-third
-  link: https://www.ieee-security.org/TC/SP2022/cfpapers.html
-  deadline: '2021-12-2 23:59:59'
-  timezone: UTC-12
-  date: To be determined
-  place: To be determined
-  sub: SP
-
-- title: USENIX Security (Summer Deadline)
-  year: 2022
-  id: usenixsecurity2022-summer
-  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
-  deadline: '2021-6-8 23:59:59'
-  timezone: UTC-12
-  date: August 10-12, 2022
-  place: Boston, MA, USA
-  sub: SP
-
-- title: USENIX Security (Fall Deadline)
-  year: 2022
-  id: usenixsecurity2022-fall
-  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
-  deadline: '2021-10-12 23:59:59'
-  timezone: UTC-12
-  date: August 10-12, 2022
-  place: Boston, MA, USA
-  sub: SP
-
-- title: USENIX Security (Winter Deadline)
-  year: 2022
-  id: usenixsecurity2022-winter
-  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
-  deadline: '2022-2-1 23:59:59'
-  timezone: UTC-12
-  date: August 10-12, 2022
-  place: Boston, MA, USA
-  sub: SP
+  id: infocom2021
+  link: https://infocom2021.ieee-infocom.org/
+  deadline: '2020-8-15 23:59:59'
+  abstract_deadline: '2020-8-8 23:59:59'
+  timezone: UTC-4
+  date: May 10-13, 2021
+  place: Online
+  sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 8, 2020. More info <a href=''https://infocom2021.ieee-infocom.org/''>here</a>.'
 
   # Mobile Computing
 
-- title: UbiComp/IMWUT (Issue 1, 2021)
+- title: [A] UbiComp/IMWUT (Issue 1, 2021)
   year: 2021
   id: ubicomp-issue1
   link: http://imwut.acm.org/
@@ -248,7 +182,7 @@
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
 
-- title: UbiComp/IMWUT (Issue 2, 2021)
+- title: [A] UbiComp/IMWUT (Issue 2, 2021)
   year: 2021
   id: ubicomp-issue2
   link: http://imwut.acm.org/
@@ -259,7 +193,7 @@
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
 
-- title: UbiComp/IMWUT (Issue 3, 2021)
+- title: [A] UbiComp/IMWUT (Issue 3, 2021)
   year: 2021
   id: ubicomp-issue3
   link: http://imwut.acm.org/
@@ -270,7 +204,7 @@
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
 
-- title: UbiComp/IMWUT (Issue 4, 2021)
+- title: [A] UbiComp/IMWUT (Issue 4, 2021)
   year: 2021
   id: ubicomp-issue4
   link: http://imwut.acm.org/
