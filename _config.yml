@@ -1,12 +1,12 @@
 title: Conference Deadlines # (Maintained by @imtypist)
 # email: 
 description: Countdowns to targeted conference deadlines
-author: Junqin Huang
+author: 
 
-domain: "ddl.huangjunqin.com"
-baseurl: ""
+domain: "isabelleliu630.github.io"
+baseurl: "isabelleliu630.github.io/conf-deadlines"
 
-github_username: imtypist
+github_username: isabelleliu630
 github_repo: conf-deadlines
 
 markdown: kramdown
