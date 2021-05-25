@@ -11,7 +11,7 @@
 
 # Distributed System
 
-- title: [B] ICDCS
+- title: B-ICDCS
   year: 2021
   id: icdcs2021
   link: https://icdcs2021.us/
@@ -25,7 +25,7 @@
 
 # Computer Network
 
-- title: [B] MobiHoc
+- title: B-MobiHoc
   year: 2021
   id: mobihoc2021
   link: https://www.sigmobile.org/mobihoc/2021/
@@ -37,7 +37,7 @@
   sub: CN
   note: '<b>NOTE</b>: Full name: International Symposium on Mobile Ad Hoc Networking and Computing (10 (including references) pages). More info <a href=''https://www.sigmobile.org/mobihoc/2021/''>here</a>.'
 
-- title: [B] MobiSys
+- title: B-MobiSys
   year: 2021
   id: mobisys2021
   link: https://www.sigmobile.org/mobisys/2021/
@@ -49,7 +49,7 @@
   sub: CN
   note: '<b>NOTE</b>: Full name: International Conference on Mobile Systems, Applications, and Services (12 pages). More info <a href=''https://sigmobile.org/mobisys/2021/cfp.html''>here</a>.'
 
-- title: [B] SenSys
+- title: B-SenSys
   year: 2021
   id: sensys2021
   link: https://sensys.acm.org/2021/
@@ -61,7 +61,7 @@
   sub: CN
   note: '<b>NOTE</b>: Full name: ACM conference on Embedded Networked Sensor Systems (12 pages).  More info <a href=''https://sensys.acm.org/2021/calls/''>here</a>.'
 
-- title: [B] SECON
+- title: B-SECON
   year: 2021
   id: secon2021
   link: https://secon2021.ieee-secon.org/
@@ -73,7 +73,7 @@
   sub: CN
   note: '<b>NOTE</b>: Full name: International Conference on Sensing, Communication and Networking (9 (including references) pages).  More info <a href=''https://secon2021.ieee-secon.org/authors/call-for-papers/''>here</a>.'
 
-- title: [B] IPSN
+- title: B-IPSN
   year: 2021
   id: ipsn2021
   link: https://ipsn.acm.org/2021/cfp.html?v=22
@@ -97,7 +97,7 @@
 #   sub: CN
 #   note: '<b>NOTE</b>: Full name: IEEE International Conference on Network Protocols (10 pages).  More info <a href=''https://icnp21.cs.ucr.edu/cfp.html''>here</a>.'
 
-- title: [A] MobiCom (Summer Deadlines)
+- title: A-MobiCom (Summer Deadlines)
   year: 2021
   id: mobicom2021-summer
   link: https://www.sigmobile.org/mobicom/2021/index.html
@@ -109,7 +109,7 @@
   sub: CN
   note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 21, 2020. More info <a href=''https://www.sigmobile.org/mobicom/2021/index.html''>here</a>.'
 
-- title: [A] MobiCom (Winter Deadlines)
+- title: A-MobiCom (Winter Deadlines)
   year: 2021
   id: mobicom2021-winter
   link: https://www.sigmobile.org/mobicom/2021/index.html
@@ -121,7 +121,7 @@
   sub: CN
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 19, 2021. More info <a href=''https://www.sigmobile.org/mobicom/2021/index.html''>here</a>.'
 
-- title: [A] NSDI (Spring deadline)
+- title: A-NSDI (Spring deadline)
   year: 2022
   id: nsdi2022-spring
   link: https://www.usenix.org/conference/nsdi22/call-for-papers
@@ -133,7 +133,7 @@
   sub: CN
   note: '<b>NOTE</b>: Full name for NSID: Symposium on Network System Design and Implementation. Mandatory abstract deadline on Mar 4, 2021. More info <a href=''https://www.usenix.org/conference/nsdi22/call-for-papers''>here</a>.'
 
-- title: [A] NSDI (Fall deadline)
+- title: A-NSDI (Fall deadline)
   year: 2022
   id: nsdi2022-fall
   link: https://www.usenix.org/conference/nsdi22/call-for-papers
@@ -145,7 +145,7 @@
   sub: CN
   note: '<b>NOTE</b>: Full name for NSID: Symposium on Network System Design and Implementation. Mandatory abstract deadline on Sept 9, 2021. More info <a href=''https://www.usenix.org/conference/nsdi22/call-for-papers''>here</a>.'
 
-- title: [A] SIGCOMM
+- title: A-SIGCOMM
   year: 2021
   id: sigcomm2021
   link: http://conferences.sigcomm.org/sigcomm/2021/
@@ -157,7 +157,7 @@
   sub: CN
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2021. More info <a href=''http://conferences.sigcomm.org/sigcomm/2021/''>here</a>.'
 
-- title: [A] INFOCOM
+- title: A-INFOCOM
   year: 2021
   id: infocom2021
   link: https://infocom2021.ieee-infocom.org/
@@ -171,7 +171,7 @@
 
   # Mobile Computing
 
-- title: [A] UbiComp/IMWUT (Issue 1, 2021)
+- title: A-UbiComp/IMWUT (Issue 1, 2021)
   year: 2021
   id: ubicomp-issue1
   link: http://imwut.acm.org/
@@ -182,7 +182,7 @@
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
 
-- title: [A] UbiComp/IMWUT (Issue 2, 2021)
+- title: A-UbiComp/IMWUT (Issue 2, 2021)
   year: 2021
   id: ubicomp-issue2
   link: http://imwut.acm.org/
@@ -193,7 +193,7 @@
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
 
-- title: [A] UbiComp/IMWUT (Issue 3, 2021)
+- title: A-UbiComp/IMWUT (Issue 3, 2021)
   year: 2021
   id: ubicomp-issue3
   link: http://imwut.acm.org/
@@ -204,7 +204,7 @@
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
 
-- title: [A] UbiComp/IMWUT (Issue 4, 2021)
+- title: A-UbiComp/IMWUT (Issue 4, 2021)
   year: 2021
   id: ubicomp-issue4
   link: http://imwut.acm.org/
