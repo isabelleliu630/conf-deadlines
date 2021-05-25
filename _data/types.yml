@@ -3,7 +3,7 @@
   sub: DS
 - name: Computer Network
   sub: CN
-- name: Security & Privacy
-  sub: SP
+# - name: Security & Privacy
+#   sub: SP
 - name: Mobile Computing
   sub: MC
