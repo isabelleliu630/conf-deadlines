@@ -4,7 +4,7 @@ description: Countdowns to targeted conference deadlines
 author: 
 
 domain: "isabelleliu630.github.io"
-baseurl: "isabelleliu630.github.io/conf-deadlines"
+baseurl: ""
 
 github_username: isabelleliu630
 github_repo: conf-deadlines
