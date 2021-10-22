@@ -214,7 +214,7 @@
   date: April 25-29, 2022
   place: Lyon, France
   sub: UC
-  note: '<b>NOTE</b>: Full name: International World Wide Web Conferences (12 (including references) pages).  More info <a href=''https://www2022.thewebconf.org/''>here</a>.''
+  note: '<b>NOTE</b>: Full name: International World Wide Web Conferences (12 (including references) pages).  More info <a href=''https://www2022.thewebconf.org/''>here</a>.'
   
   - title: KDD
   year: 2022
@@ -225,7 +225,7 @@
   date: August 14-18, 2022
   place: Virtual Conference
   sub: UC
-  note:  '<b>NOTE</b>: Full name: Knowledge Discovery and Data Mining (9 (including references) pages).  More info <a href=''https://www.kdd.org/kdd2021/''>here</a>.''
+  note:  '<b>NOTE</b>: Full name: Knowledge Discovery and Data Mining (9 (including references) pages).  More info <a href=''https://www.kdd.org/kdd2021/''>here</a>.'
   
   - title: RTSS
   year: 2022
@@ -236,7 +236,7 @@
   date: December 7-10, 2022
   place: Virtual Conference
   sub: UC
-  note: '<b>NOTE</b>: Full name: Real-Time Systems Symposium (11 (including references) pages).  More info <a href=''http://2021.rtss.org/''>here</a>.''
+  note: '<b>NOTE</b>: Full name: Real-Time Systems Symposium (11 (including references) pages).  More info <a href=''http://2021.rtss.org/''>here</a>.'
   
   - title: ICML
   year: 2022
@@ -247,7 +247,7 @@
   date: July 18-24, 2022
   place: Virtual Conference
   sub: AI
-  note: '<b>NOTE</b>: Full name: International Conference on Machine Learning (8 (including references) pages).  More info <a href=''https://icml.cc/Conferences/2021/CallForPapers''>here</a>.''
+  note: '<b>NOTE</b>: Full name: International Conference on Machine Learning (8 (including references) pages).  More info <a href=''https://icml.cc/Conferences/2021/CallForPapers''>here</a>.'
   
   - title: NeurIPS
   year: 2022
@@ -258,7 +258,7 @@
   date: December 7-10, 2023
   place: Virtual Conference
   sub: AI
-  note: '<b>NOTE</b>: 9 (including references) pages.  More info <a href=''https://neurips.cc/Conferences/2021/Dates''>here</a>.''
+  note: '<b>NOTE</b>: 9 (including references) pages.  More info <a href=''https://neurips.cc/Conferences/2021/Dates''>here</a>.'
   
   - title: AAAI
   year: 2022
@@ -269,7 +269,7 @@
   date: Feburary 22- March 1, 2023
   place: TBD
   sub: AI
-  note: '<b>NOTE</b>: 8 (including references) pages.  More info <a href=''https://aaai.org/Conferences/AAAI-22/aaai22call/''>here</a>.''
+  note: '<b>NOTE</b>: 8 (including references) pages.  More info <a href=''https://aaai.org/Conferences/AAAI-22/aaai22call/''>here</a>.'
   
   - title: IJCAI
   year: 2022
