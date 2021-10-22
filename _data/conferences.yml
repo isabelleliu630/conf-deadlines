@@ -271,4 +271,15 @@
   sub: AI
   note: '<b>NOTE</b>: 8 (including references) pages.  More info <a href=''https://aaai.org/Conferences/AAAI-22/aaai22call/''>here</a>.'
   
+ - title: IJCAI
+  year: 2022
+  id: ijcai2022
+  link: https://ijcai-22.org/
+  deadline: '2022-1-7 23:59:59'
+  timezone: UTC-5
+  date: July 23-29, 2023
+  place: TBD  
+  sub: AI
+  note: '<b>NOTE</b>: 8 (including references) pages.  More info <a href=''https://ijcai-22.org/''>here</a>.'
+  
 
