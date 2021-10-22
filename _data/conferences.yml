@@ -194,7 +194,7 @@
 
 - title: A-UbiComp/IMWUT (Issue 4, 2022)
   year: 2022
-  id: ubicomp-issue3
+  id: ubicomp-issue4
   link: http://imwut.acm.org/
   deadline: '2022-11-15 23:59:59'
   timezone: UTC-5
@@ -202,5 +202,73 @@
   place: Virtual Conference
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
+
+# AI
+  
+- title: WWW
+  year: 2022
+  id: www2022
+  link: https://www2022.thewebconf.org/
+  deadline: '2022-10-21 23:59:59'
+  timezone: UTC-5
+  date: April 25-29, 2022
+  place: Lyon, France
+  sub: UC
+  note: '<b>NOTE</b>: Full name: International World Wide Web Conferences (12 (including references) pages).  More info <a href=''https://www2022.thewebconf.org/''>here</a>.'
+  
+- title: KDD
+  year: 2022
+  id: kdd2022
+  link: https://www.kdd.org/kdd2021/
+  deadline: '2022-2-8 23:59:59'
+  timezone: UTC-5
+  date: August 14-18, 2022
+  place: Virtual Conference
+  sub: UC
+  note:  '<b>NOTE</b>: Full name: Knowledge Discovery and Data Mining (9 (including references) pages).  More info <a href=''https://www.kdd.org/kdd2021/''>here</a>.'
+  
+- title: RTSS
+  year: 2022
+  id: rtss2022
+  link: http://2021.rtss.org/
+  deadline: '2022-5-27 23:59:59'
+  timezone: UTC-5
+  date: December 7-10, 2022
+  place: Virtual Conference
+  sub: UC
+  note: '<b>NOTE</b>: Full name: Real-Time Systems Symposium (11 (including references) pages).  More info <a href=''http://2021.rtss.org/''>here</a>.'
+  
+- title: ICML
+  year: 2022
+  id: icml2022
+  link: https://icml.cc/Conferences/2021/CallForPapers
+  deadline: '2022-1-28 23:59:59'
+  timezone: UTC-5
+  date: July 18-24, 2022
+  place: Virtual Conference
+  sub: AI
+  note: '<b>NOTE</b>: Full name: International Conference on Machine Learning (8 (including references) pages).  More info <a href=''https://icml.cc/Conferences/2021/CallForPapers''>here</a>.'
+  
+- title: NeurIPS
+  year: 2022
+  id: neurips2022
+  link: https://neurips.cc/Conferences/2021/Dates
+  deadline: '2022-5-28 23:59:59'
+  timezone: UTC-5
+  date: December 7-10, 2023
+  place: Virtual Conference
+  sub: AI
+  note: '<b>NOTE</b>: 9 (including references) pages.  More info <a href=''https://neurips.cc/Conferences/2021/Dates''>here</a>.'
+  
+- title: AAAI
+  year: 2022
+  id: aaai2022
+  link: https://aaai.org/Conferences/AAAI-22/aaai22call/
+  deadline: '2022-9-8 23:59:59'
+  timezone: UTC-5
+  date: Feburary 22- March 1, 2023
+  place: TBD  
+  sub: AI
+  note: '<b>NOTE</b>: 8 (including references) pages.  More info <a href=''https://aaai.org/Conferences/AAAI-22/aaai22call/''>here</a>.'
   
 
