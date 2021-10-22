@@ -21,7 +21,7 @@
   date: July 10-13, 2022
   place: Bologna, Italy
   sub: DS
-  # note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 6, 2021. More info <a href=''https://icdcs2021.us/''>here</a>.'
+  note: 'More info <a href=''https://icdcs2021.us/''>here</a>.'
 
 # Computer Network
 
@@ -281,4 +281,4 @@
   date: July 23-29, 2022
   place: Virtual Conference
   sub: AI
-  #note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
+  note: '<b>NOTE</b>: 8'
