@@ -7,3 +7,7 @@
 #   sub: SP
 - name: Mobile Computing
   sub: MC
+- name: Ubiquitous Computing
+  sub: UC
+- name: Artificial Intelligence
+  sub: AI
